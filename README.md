@@ -12,9 +12,15 @@
 
 [Golang交叉编译](./_posts/2018-12-05-Golang交叉编译-2018.md)
 
+[转载链接: Gin架构源码分析](https://www.jianshu.com/p/86577a88a8c3)
 
-## Mysql
+[转载链接: Gorm文档页面](http://gorm.io/zh_CN/docs/changelog.html)
+
+
+## 其他
 
 [转载链接: Mysql InnoDB 索引原理详解](https://www.cnblogs.com/shijingxiang/articles/4743324.html)
 
 [Mysql按时间排序分页数据错误问题](./_posts/2018-12-05-Mysql按时间排序分页问题-2018.md)
+
+[转载链接: Git内部实现机制](http://blog.51cto.com/9291927/2173002)
