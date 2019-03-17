@@ -19,10 +19,29 @@
 [转载链接: Bolt DB使用手册](https://blog.csdn.net/wdy_yx/article/details/78623866)
 
 
-## 其他
+## PHP开发相关文章
 
 [转载链接: Mysql InnoDB 索引原理详解](https://www.cnblogs.com/shijingxiang/articles/4743324.html)
 
+[转载链接: Mysql 索引原理](https://www.cnblogs.com/shijingxiang/articles/4743324.html)
+
 [Mysql按时间排序分页数据错误问题](./_posts/2018-12-05-Mysql按时间排序分页问题-2018.md)
 
+[转载链接: 深入理解PHP原理之Opcodes](http://www.laruence.com/2008/06/18/221.html)
+
+[转载链接: PHP运行原理](https://www.cnblogs.com/wanglijun/p/8830932.html)
+
+[转载链接: PHP类自动注入Autoload](https://www.jb51.net/article/146833.htm)
+
+[转载链接: PHP7新特性](https://blog.csdn.net/weixin_43681537/article/details/84552768)
+
+[转载链接: Yii2依赖注入和依赖注入容器和服务定位器](http://www.digpage.com/service_locator.html)
+
+[转载链接: Nginx Epoll](https://blog.csdn.net/davidsguo008/article/details/73556811)
+
 [转载链接: Git内部实现机制](http://blog.51cto.com/9291927/2173002)
+
+[转载链接: 缓存常见问题详解](https://www.cnblogs.com/Leo_wl/p/9062029.html)
+
+
+
