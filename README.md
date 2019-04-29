@@ -45,5 +45,10 @@
 
 [NGINX 配置 SSL 双向认证](./_posts/2019-04-23-NGINX配置SSL双向认证-2019.md)
 
+## 其他
+
+[Supervisor使用教程](./_posts/2019-04-29-supervisor-使用教程-2019.md)
+
+[SUpervisor常见错误集合](./_posts/2019-04-30-supervisor-常见错误集合.md)
 
 
