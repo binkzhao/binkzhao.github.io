@@ -49,6 +49,8 @@
 
 [Supervisor使用教程](./_posts/2019-04-29-supervisor-使用教程-2019.md)
 
-[SUpervisor常见错误集合](./_posts/2019-04-30-supervisor-常见错误集合.md)
+[Supervisor常见错误集合](./_posts/2019-04-30-supervisor-常见错误集合.md)
+
+[转载链接: 架构师之路](https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html)
 
 
