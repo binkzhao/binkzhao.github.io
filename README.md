@@ -18,6 +18,8 @@
 
 [转载链接: Bolt DB使用手册](https://blog.csdn.net/wdy_yx/article/details/78623866)
 
+[转载链接: 垃圾回收机制](http://legendtkl.com/2017/04/28/golang-gc/)
+
 
 ## PHP开发相关文章
 
