@@ -57,3 +57,7 @@
 
 [Linux下开放端口](./_posts/2019-08-16-Linux下开放端口-2019.md)
 
+[转载链接: 网页短链接实现原理探究](https://blog.csdn.net/lishanleilixin/article/details/82908834)
+
+[转载链接: 短链接实现](https://www.jianshu.com/p/24d6480e6bf4)
+
