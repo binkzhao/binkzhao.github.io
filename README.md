@@ -23,10 +23,6 @@
 
 ## PHP开发相关文章
 
-[转载链接: Mysql InnoDB 索引原理详解](https://www.cnblogs.com/shijingxiang/articles/4743324.html)
-
-[转载链接: Mysql 索引原理](https://www.cnblogs.com/shijingxiang/articles/4743324.html)
-
 [Mysql按时间排序分页数据错误问题](./_posts/2018-12-05-Mysql按时间排序分页问题-2018.md)
 
 [转载链接: 深入理解PHP原理之Opcodes](http://www.laruence.com/2008/06/18/221.html)
@@ -61,3 +57,25 @@
 
 [转载链接: 短链接实现](https://www.jianshu.com/p/24d6480e6bf4)
 
+## 进阶
+
+#### 1. Redis和缓存
+- [转载链接: 深入学习Redis（1）：Redis内存模型](https://www.cnblogs.com/kismetv/p/8654978.html)
+- [转载链接: 深入学习Redis（2）：持久化](https://www.cnblogs.com/kismetv/p/9137897.html)
+- [转载链接: 深入学习Redis（3）：主从复制](https://www.cnblogs.com/kismetv/p/9236731.html)
+- [转载链接: 深入学习Redis（4）：哨兵](https://www.cnblogs.com/kismetv/p/9609938.html)
+- [转载链接: 深入学习Redis（5）：集群](https://www.cnblogs.com/kismetv/p/9853040.html)
+- [缓存常见详解](./_posts/2020-01-29-缓存常见详解.md)
+- [转载链接: Redis五种数据类型和应用场景](https://blog.csdn.net/qq_41654985/article/details/82390875)
+
+#### 2. Mysql数据库
+- [转载链接: Mysql InnoDB 索引原理详解](https://www.cnblogs.com/williamjie/p/11081081.html)
+- [转载链接: Mysql索引优化](https://www.jianshu.com/p/6ee323c0c09a?tdsourcetag=s_pctim_aiomsg)
+- [转载链接: Mysql中explain详解](https://www.jianshu.com/p/be1c86303c80)
+- [转载链接: Mysql事务详解](https://www.cnblogs.com/tqlin/p/11507508.html)
+- [转载链接: 从Mysql事务到分布式事务详解](https://www.jianshu.com/p/989aef653744)
+- [转载链接: Mysql主从复制原理](https://www.cnblogs.com/xihuineng/p/10438969.html)
+- [转载链接: Mysql主从同步常见问题](https://blog.csdn.net/sky__liang/article/details/85684615)
+
+#### 3. 其他技术
+- [转载链接: 架构师之路](https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html)
