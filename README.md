@@ -35,11 +35,7 @@
 
 [转载链接: Yii2依赖注入和依赖注入容器和服务定位器](http://www.digpage.com/service_locator.html)
 
-[转载链接: Nginx Epoll](https://blog.csdn.net/davidsguo008/article/details/73556811)
-
 [转载链接: Git内部实现机制](http://blog.51cto.com/9291927/2173002)
-
-[转载链接: 缓存常见问题详解](https://www.cnblogs.com/Leo_wl/p/9062029.html)
 
 [NGINX 配置 SSL 双向认证](./_posts/2019-04-23-NGINX配置SSL双向认证-2019.md)
 
@@ -48,8 +44,6 @@
 [Supervisor使用教程](./_posts/2019-04-29-supervisor-使用教程-2019.md)
 
 [Supervisor常见错误集合](./_posts/2019-04-30-supervisor-常见错误集合.md)
-
-[转载链接: 架构师之路](https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html)
 
 [Linux下开放端口](./_posts/2019-08-16-Linux下开放端口-2019.md)
 
@@ -73,9 +67,14 @@
 - [转载链接: Mysql索引优化](https://www.jianshu.com/p/6ee323c0c09a?tdsourcetag=s_pctim_aiomsg)
 - [转载链接: Mysql中explain详解](https://www.jianshu.com/p/be1c86303c80)
 - [转载链接: Mysql事务详解](https://www.cnblogs.com/tqlin/p/11507508.html)
-- [转载链接: 从Mysql事务到分布式事务详解](https://www.jianshu.com/p/989aef653744)
+- [转载链接: Mysql事务到分布式事务详解](https://www.jianshu.com/p/989aef653744)
 - [转载链接: Mysql主从复制原理](https://www.cnblogs.com/xihuineng/p/10438969.html)
 - [转载链接: Mysql主从同步常见问题](https://blog.csdn.net/sky__liang/article/details/85684615)
 
 #### 3. 其他技术
 - [转载链接: 架构师之路](https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html)
+- [转载链接: HTTP协议详解](https://www.cnblogs.com/qdhxhz/p/8468913.html)
+- [转载链接: HTTP请求的流程](https://blog.csdn.net/wolf_love666/article/details/93600904)
+- [转载链接: TCP/IP详解(包含ack,seq)](https://www.cnblogs.com/Qiansion/articles/10788917.html)
+- [转载链接: 消息队列MQ技术的介绍和原理](https://blog.csdn.net/ufan94/article/details/91442995)
+- [转载链接: Nginx Epoll](https://blog.csdn.net/davidsguo008/article/details/73556811)
