@@ -18,7 +18,7 @@
 
 [转载链接: Bolt DB使用手册](https://blog.csdn.net/wdy_yx/article/details/78623866)
 
-[转载链接: 垃圾回收机制](http://legendtkl.com/2017/04/28/golang-gc/)
+- [转载链接: 垃圾回收机制](http://legendtkl.com/2017/04/28/golang-gc/)
 
 
 ## PHP开发相关文章
@@ -67,14 +67,23 @@
 - [转载链接: Mysql索引优化](https://www.jianshu.com/p/6ee323c0c09a?tdsourcetag=s_pctim_aiomsg)
 - [转载链接: Mysql中explain详解](https://www.jianshu.com/p/be1c86303c80)
 - [转载链接: Mysql事务详解](https://www.cnblogs.com/tqlin/p/11507508.html)
+- [转载链接: Mysql锁机制详解](https://blog.csdn.net/qq_37933685/article/details/80717515)
 - [转载链接: Mysql事务到分布式事务详解](https://www.jianshu.com/p/989aef653744)
-- [转载链接: Mysql主从复制原理](https://www.cnblogs.com/xihuineng/p/10438969.html)
+- [转载链接: Mysql主从复制原理](https://www.cnblogs.com/myIvan/p/10164926.html)
 - [转载链接: Mysql主从同步常见问题](https://blog.csdn.net/sky__liang/article/details/85684615)
 
 #### 3. 其他技术
 - [转载链接: 架构师之路](https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html)
 - [转载链接: HTTP协议详解](https://www.cnblogs.com/qdhxhz/p/8468913.html)
+- [转载链接: HTTP301和302的区别](https://www.jianshu.com/p/995a3000f7d6?from=timeline&isappinstalled=0)
 - [转载链接: HTTP请求的流程](https://blog.csdn.net/wolf_love666/article/details/93600904)
 - [转载链接: TCP/IP详解(包含ack,seq)](https://www.cnblogs.com/Qiansion/articles/10788917.html)
 - [转载链接: 消息队列MQ技术的介绍和原理](https://blog.csdn.net/ufan94/article/details/91442995)
 - [转载链接: Nginx Epoll](https://blog.csdn.net/davidsguo008/article/details/73556811)
+- [转载链接: Rpc协议详解](https://www.cnblogs.com/leeego-123/p/10897959.html)
+
+#### 4. golang
+- [转载链接: 垃圾回收机制](http://legendtkl.com/2017/04/28/golang-gc/)
+
+- [转载链接: 问题解答汇总](https://blog.csdn.net/weixin_34128839/article/details/94488565)
+
