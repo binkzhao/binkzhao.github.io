@@ -78,12 +78,13 @@
 - [转载链接: HTTP301和302的区别](https://www.jianshu.com/p/995a3000f7d6?from=timeline&isappinstalled=0)
 - [转载链接: HTTP请求的流程](https://blog.csdn.net/wolf_love666/article/details/93600904)
 - [转载链接: TCP/IP详解(包含ack,seq)](https://www.cnblogs.com/Qiansion/articles/10788917.html)
-- [转载链接: 消息队列MQ技术的介绍和原理](https://blog.csdn.net/ufan94/article/details/91442995)
+- [转载链接: TCP协议](https://www.cnblogs.com/qdhxhz/p/10267932.html)
+- [转载链接: 消息队列MQ技术的介绍和原理](https://blog.csdn.net/h2604396739/article/details/81136527)
 - [转载链接: Nginx Epoll](https://blog.csdn.net/davidsguo008/article/details/73556811)
 - [转载链接: Rpc协议详解](https://www.cnblogs.com/leeego-123/p/10897959.html)
 
 #### 4. golang
 - [转载链接: 垃圾回收机制](http://legendtkl.com/2017/04/28/golang-gc/)
-
 - [转载链接: 问题解答汇总](https://blog.csdn.net/weixin_34128839/article/details/94488565)
+- [转载链接: Context详解](https://www.jianshu.com/p/d24bf8b6c869)
 
