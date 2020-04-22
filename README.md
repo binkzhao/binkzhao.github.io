@@ -20,6 +20,8 @@
 - [转载链接: PHP垃圾回收](https://www.jianshu.com/p/52450a61354d)
 - [转载链接: PHP类自动注入Autoload](https://www.jb51.net/article/146833.htm)
 - [转载链接: PHP7新特性](https://blog.csdn.net/weixin_43681537/article/details/84552768)
+- [转载链接: PHP抽象语法树AST](https://www.php.cn/php-weizijiaocheng-416441.html)
+- [转载链接: PHP生成器yield](https://www.cnblogs.com/zuochuang/p/8176868.html)
 - [转载链接: Yii2依赖注入和依赖注入容器和服务定位器](http://www.digpage.com/service_locator.html)
 - [转载链接: Git内部实现机制](http://blog.51cto.com/9291927/2173002)
 - [NGINX 配置 SSL 双向认证](./_posts/2019-04-23-NGINX配置SSL双向认证-2019.md)
