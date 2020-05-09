@@ -25,6 +25,7 @@
 - [转载链接: Yii2依赖注入和依赖注入容器和服务定位器](http://www.digpage.com/service_locator.html)
 - [转载链接: Git内部实现机制](http://blog.51cto.com/9291927/2173002)
 - [NGINX 配置 SSL 双向认证](./_posts/2019-04-23-NGINX配置SSL双向认证-2019.md)
+- [Swoole学习教程](https://xueyuanjun.com/books/swoole-tutorial)
 
 ## 其他
 
